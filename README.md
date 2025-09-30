@@ -2,9 +2,8 @@
 <p align="center">
 
 ╔═══════════════════════════════╗
- ║      🚀 NOBONI SULTAN 🚀     ║
-║                               ║ 
- ║  code ✦ art ✦ exploration   ║
+║      🚀 NOBONI SULTAN 🚀       ║
+║ code ✦ art ✦ exploration      ║  
 ╚═══════════════════════════════╝
 
 </p>
